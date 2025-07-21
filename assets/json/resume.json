@@ -2,25 +2,15 @@
   "Personal Information": {
     "name": "Agustin Tapia",
     "label": "Data Scientist",
-    "image": "",
     "email": "agustintapiam@outlook.com",
     "phone": "+52 55 32482128",
-    "url": "",
-    "summary": "",
     "location": {
       "address": "",
       "postalCode": "CA 92336",
       "city": "Fontana",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      }
-    ]
+    }
   },
   "Experience": [
     {
