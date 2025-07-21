@@ -25,4 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Physics Engineer graduate with a minor in Advanced Artificial Intelligence for Data Science. Linkedin: www.linkedin.com/in/agustín-tapia
+Physics Engineer graduate with a minor in Advanced Artificial Intelligence for Data Science. 
+[Linkedin](https://www.linkedin.com/in/agustín-tapia)
