@@ -1,9 +1,10 @@
 {
-  "Personal Information": {
+  "basics": {
     "name": "Agustin Tapia",
     "label": "Data Scientist",
     "email": "agustintapiam@outlook.com",
     "phone": "+52 55 32482128",
+
     "location": {
       "address": "",
       "postalCode": "CA 92336",
@@ -12,7 +13,7 @@
       "region": "California"
     }
   },
-  "Experience": [
+  "Work": [
     {
       "position": "Data Scientist intern",
       "startDate": "2024-04-15",
